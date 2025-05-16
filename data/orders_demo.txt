@@ -1,0 +1,212 @@
+[
+  {
+    "food": [
+      "Tea"
+    ],
+    "quantity": [
+      1
+    ],
+    "special": [
+      "None"
+    ],
+    "status": true,
+    "dateAndTime": "Mar 21, 2024, 11:31:46 AM",
+    "orderID": 1,
+    "dataType": "ORDER"
+  },
+  {
+    "food": [
+      "Fruit Salad",
+      "Garlic Knots",
+      "Supreme Pizza"
+    ],
+    "quantity": [
+      1,
+      2,
+      21
+    ],
+    "special": [
+      "Ranch",
+      "None",
+      "Extra Sauce; Thick Crust; Cheese-Stuffed Crust"
+    ],
+    "status": true,
+    "dateAndTime": "Mar 21, 2024, 11:33:24 AM",
+    "orderID": 2,
+    "dataType": "ORDER"
+  },
+  {
+    "food": [
+      "Club Sandwich",
+      "Garlic Knots"
+    ],
+    "quantity": [
+      2,
+      1
+    ],
+    "special": [
+      "Ranch",
+      "No Pickles"
+    ],
+    "status": true,
+    "dateAndTime": "Mar 21, 2024, 11:52:45 AM",
+    "orderID": 3,
+    "dataType": "ORDER"
+  },
+  {
+    "food": [
+      "Caesar Salad",
+      "Veggie Sandwich"
+    ],
+    "quantity": [
+      1,
+      1
+    ],
+    "special": [
+      "None",
+      "None"
+    ],
+    "status": true,
+    "dateAndTime": "Mar 21, 2024, 1:34:58 PM",
+    "orderID": 4,
+    "dataType": "ORDER"
+  },
+  {
+    "food": [
+      "Caesar Salad"
+    ],
+    "quantity": [
+      4
+    ],
+    "special": [
+      "Italian Dressing"
+    ],
+    "status": false,
+    "dateAndTime": "Mar 22, 2024, 7:11:24 AM",
+    "orderID": 5,
+    "dataType": "ORDER"
+  },
+  {
+    "food": [
+      "Ice Cream Cone",
+      "Veggie Sandwich"
+    ],
+    "quantity": [
+      1,
+      2
+    ],
+    "special": [
+      "None",
+      "No Pickles"
+    ],
+    "status": true,
+    "dateAndTime": "Mar 22, 2024, 7:14:09 AM",
+    "orderID": 6,
+    "dataType": "ORDER"
+  },
+  {
+    "food": [
+      "Chicken Sandwich",
+      "Veggie Sandwich"
+    ],
+    "quantity": [
+      1,
+      1
+    ],
+    "special": [
+      "No Pickles",
+      "No Pickles"
+    ],
+    "status": true,
+    "dateAndTime": "Mar 22, 2024, 7:16:21 AM",
+    "orderID": 7,
+    "dataType": "ORDER"
+  },
+  {
+    "food": [
+      "Caesar Salad",
+      "Garlic Knots"
+    ],
+    "quantity": [
+      3,
+      1
+    ],
+    "special": [
+      "Italian Dressing",
+      "Ranch"
+    ],
+    "status": true,
+    "dateAndTime": "Mar 23, 2024, 5:46:06 PM",
+    "orderID": 8,
+    "dataType": "ORDER"
+  },
+  {
+    "food": [
+      "Mozarella Sticks",
+      "Veggie Pizza"
+    ],
+    "quantity": [
+      6,
+      1
+    ],
+    "special": [
+      "Marinara",
+      "Extra Sauce"
+    ],
+    "status": false,
+    "dateAndTime": "Mar 23, 2024, 5:53:43 PM",
+    "orderID": 9,
+    "dataType": "ORDER"
+  },
+  {
+    "food": [
+      "Mozarella Sticks",
+      "Veggie Pizza"
+    ],
+    "quantity": [
+      1,
+      3
+    ],
+    "special": [
+      "Extra Sauce",
+      "Ranch"
+    ],
+    "status": false,
+    "dateAndTime": "Mar 23, 2024, 5:59:56 PM",
+    "orderID": 10,
+    "dataType": "ORDER"
+  },
+  {
+    "food": [
+      "Ice Cream Cone"
+    ],
+    "quantity": [
+      1
+    ],
+    "special": [
+      "None"
+    ],
+    "status": false,
+    "dateAndTime": "Mar 23, 2024, 6:04:46 PM",
+    "orderID": 11,
+    "dataType": "ORDER"
+  },
+  {
+    "food": [
+      "Garlic Knots",
+      "Mozarella Sticks"
+    ],
+    "quantity": [
+      3,
+      1
+    ],
+    "special": [
+      "Ranch",
+      "Ranch"
+    ],
+    "status": false,
+    "dateAndTime": "Mar 26, 2024, 1:51:12 PM",
+    "orderID": 12,
+    "dataType": "ORDER"
+  }
+]

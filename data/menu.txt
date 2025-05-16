@@ -1,0 +1,203 @@
+{
+  "categoriesList": [
+    {
+      "name": "Sandwiches",
+      "foodItemsList": [
+        {
+          "name": "Roast Chicken Bao Buns",
+          "basePrice": 3.25,
+          "modifiersList": [],
+          "categoryID": 1,
+          "foodItemID": 1,
+          "recipe": [],
+          "dataType": "FOOD_ITEM"
+        },
+        {
+          "name": "Classic Cuban",
+          "basePrice": 5.5,
+          "modifiersList": [],
+          "categoryID": 1,
+          "foodItemID": 2,
+          "recipe": [
+            {
+              "componentId": "6a616696-90aa-4383-b83f-2ef0f3178f80",
+              "quantityPerItem": 2
+            }
+          ],
+          "dataType": "FOOD_ITEM"
+        },
+        {
+          "name": "Roast Beef Sandwich",
+          "basePrice": 6.0,
+          "modifiersList": [],
+          "categoryID": 1,
+          "foodItemID": 3,
+          "recipe": [],
+          "dataType": "FOOD_ITEM"
+        },
+        {
+          "name": "Burger",
+          "basePrice": 6.5,
+          "modifiersList": [
+            {
+              "name": "Extra Cheese",
+              "additionalCost": 0.5,
+              "categoryID": 1,
+              "foodItemID": 12,
+              "modifierID": 1,
+              "stockComponentId": "b73eb0fc-4c09-47dd-ae76-9e64781a7f6e",
+              "quantityEffect": 1,
+              "dataType": "MODIFIER"
+            }
+          ],
+          "categoryID": 1,
+          "foodItemID": 12,
+          "recipe": [
+            {
+              "componentId": "274bd683-4baf-44e8-9735-c09cce47adeb",
+              "quantityPerItem": 2
+            },
+            {
+              "componentId": "b73eb0fc-4c09-47dd-ae76-9e64781a7f6e",
+              "quantityPerItem": 1
+            },
+            {
+              "componentId": "c9dd6d85-8317-44c5-a52e-e760dcf00bdf",
+              "quantityPerItem": 1
+            }
+          ],
+          "dataType": "FOOD_ITEM"
+        }
+      ],
+      "categoryID": 1,
+      "dataType": "CATEGORY"
+    },
+    {
+      "name": "Snacks",
+      "foodItemsList": [
+        {
+          "name": "Egg Fried Rice",
+          "basePrice": 1.5,
+          "modifiersList": [],
+          "categoryID": 2,
+          "foodItemID": 4,
+          "recipe": [],
+          "dataType": "FOOD_ITEM"
+        },
+        {
+          "name": "Snack Pack",
+          "basePrice": 3.75,
+          "modifiersList": [],
+          "categoryID": 2,
+          "foodItemID": 5,
+          "recipe": [],
+          "dataType": "FOOD_ITEM"
+        }
+      ],
+      "categoryID": 2,
+      "dataType": "CATEGORY"
+    },
+    {
+      "name": "Soup/Salad",
+      "foodItemsList": [
+        {
+          "name": "Fennel Salad",
+          "basePrice": 4.5,
+          "modifiersList": [],
+          "categoryID": 3,
+          "foodItemID": 6,
+          "recipe": [],
+          "dataType": "FOOD_ITEM"
+        }
+      ],
+      "categoryID": 3,
+      "dataType": "CATEGORY"
+    },
+    {
+      "name": "Desserts",
+      "foodItemsList": [
+        {
+          "name": "Oatmeal Cookie",
+          "basePrice": 3.0,
+          "modifiersList": [],
+          "categoryID": 4,
+          "foodItemID": 7,
+          "recipe": [],
+          "dataType": "FOOD_ITEM"
+        },
+        {
+          "name": "Matcha Mochi",
+          "basePrice": 1.5,
+          "modifiersList": [],
+          "categoryID": 4,
+          "foodItemID": 8,
+          "recipe": [],
+          "dataType": "FOOD_ITEM"
+        }
+      ],
+      "categoryID": 4,
+      "dataType": "CATEGORY"
+    },
+    {
+      "name": "Drinks",
+      "foodItemsList": [
+        {
+          "name": "Water",
+          "basePrice": 1.0,
+          "modifiersList": [],
+          "categoryID": 5,
+          "foodItemID": 9,
+          "recipe": [],
+          "dataType": "FOOD_ITEM"
+        },
+        {
+          "name": "Celsius",
+          "basePrice": 3.0,
+          "modifiersList": [],
+          "categoryID": 5,
+          "foodItemID": 10,
+          "recipe": [],
+          "dataType": "FOOD_ITEM"
+        },
+        {
+          "name": "Tea Taze",
+          "basePrice": 3.0,
+          "modifiersList": [],
+          "categoryID": 5,
+          "foodItemID": 11,
+          "recipe": [],
+          "dataType": "FOOD_ITEM"
+        }
+      ],
+      "categoryID": 5,
+      "dataType": "CATEGORY"
+    }
+  ],
+  "inventoryItems": [
+    {
+      "id": "6a616696-90aa-4383-b83f-2ef0f3178f80",
+      "name": "Bread",
+      "stockQuantity": 10,
+      "trackStock": true
+    },
+    {
+      "id": "274bd683-4baf-44e8-9735-c09cce47adeb",
+      "name": "Buns",
+      "stockQuantity": 10,
+      "trackStock": true
+    },
+    {
+      "id": "b73eb0fc-4c09-47dd-ae76-9e64781a7f6e",
+      "name": "Cheese Slice",
+      "stockQuantity": 0,
+      "trackStock": true
+    },
+    {
+      "id": "c9dd6d85-8317-44c5-a52e-e760dcf00bdf",
+      "name": "Patty",
+      "stockQuantity": 5,
+      "trackStock": true
+    }
+  ],
+  "taxRate": 0.05
+}

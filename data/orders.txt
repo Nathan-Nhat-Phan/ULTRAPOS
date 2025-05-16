@@ -1,0 +1,173 @@
+[
+  {
+    "food": [
+      "Roast Chicken Bao Buns",
+      "Snack Pack"
+    ],
+    "quantity": [
+      4,
+      1
+    ],
+    "special": [
+      "None",
+      "None"
+    ],
+    "status": true,
+    "dateAndTime": "Mar 29, 2024, 10:56:04 AM",
+    "studentID": "",
+    "orderID": 1,
+    "dataType": "ORDER"
+  },
+  {
+    "food": [
+      "Egg Fried Rice"
+    ],
+    "quantity": [
+      2
+    ],
+    "special": [
+      "None"
+    ],
+    "status": true,
+    "dateAndTime": "Apr 3, 2024, 7:50:49 AM",
+    "studentID": "",
+    "orderID": 2,
+    "dataType": "ORDER"
+  },
+  {
+    "food": [
+      "Celsius"
+    ],
+    "quantity": [
+      2
+    ],
+    "special": [
+      "None"
+    ],
+    "status": true,
+    "dateAndTime": "May 9, 2025, 11:00:29 PM",
+    "completionDate": "May 10, 2025, 9:59:06 PM",
+    "studentID": "86547890",
+    "orderID": 3,
+    "dataType": "ORDER"
+  },
+  {
+    "food": [
+      "Classic Cuban"
+    ],
+    "quantity": [
+      1
+    ],
+    "special": [
+      "None"
+    ],
+    "status": true,
+    "dateAndTime": "May 9, 2025, 11:00:59 PM",
+    "completionDate": "May 10, 2025, 9:59:06 PM",
+    "studentID": "888888",
+    "orderID": 4,
+    "dataType": "ORDER"
+  },
+  {
+    "food": [
+      "Burger"
+    ],
+    "quantity": [
+      1
+    ],
+    "special": [
+      "Extra Cheese"
+    ],
+    "status": true,
+    "dateAndTime": "May 10, 2025, 9:46:39 PM",
+    "completionDate": "May 10, 2025, 9:59:04 PM",
+    "studentID": "",
+    "orderID": 5,
+    "dataType": "ORDER"
+  },
+  {
+    "food": [
+      "Burger"
+    ],
+    "quantity": [
+      4
+    ],
+    "special": [
+      "None"
+    ],
+    "status": true,
+    "dateAndTime": "May 10, 2025, 9:47:51 PM",
+    "completionDate": "May 10, 2025, 9:59:05 PM",
+    "studentID": "",
+    "orderID": 6,
+    "dataType": "ORDER"
+  },
+  {
+    "food": [
+      "Burger"
+    ],
+    "quantity": [
+      2
+    ],
+    "special": [
+      "Extra Cheese"
+    ],
+    "status": true,
+    "dateAndTime": "May 10, 2025, 9:54:19 PM",
+    "completionDate": "May 10, 2025, 9:59:05 PM",
+    "studentID": "",
+    "orderID": 7,
+    "dataType": "ORDER"
+  },
+  {
+    "food": [
+      "Burger"
+    ],
+    "quantity": [
+      1
+    ],
+    "special": [
+      "Extra Cheese"
+    ],
+    "status": true,
+    "dateAndTime": "May 10, 2025, 10:10:29 PM",
+    "completionDate": "May 10, 2025, 10:10:32 PM",
+    "studentID": "",
+    "orderID": 8,
+    "dataType": "ORDER"
+  },
+  {
+    "food": [
+      "Burger"
+    ],
+    "quantity": [
+      3
+    ],
+    "special": [
+      "None"
+    ],
+    "status": true,
+    "dateAndTime": "May 10, 2025, 10:17:44 PM",
+    "completionDate": "May 10, 2025, 10:17:55 PM",
+    "studentID": "",
+    "orderID": 9,
+    "dataType": "ORDER"
+  },
+  {
+    "food": [
+      "Burger"
+    ],
+    "quantity": [
+      5
+    ],
+    "special": [
+      "Extra Cheese"
+    ],
+    "status": true,
+    "dateAndTime": "May 10, 2025, 10:47:20 PM",
+    "completionDate": "May 10, 2025, 11:17:29 PM",
+    "studentID": "",
+    "orderID": 10,
+    "dataType": "ORDER"
+  }
+]

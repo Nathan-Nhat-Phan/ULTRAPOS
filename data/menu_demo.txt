@@ -1,0 +1,627 @@
+[
+  {
+    "name": "Appetizers",
+    "foodItemsList": [
+      {
+        "name": "Garlic Knots",
+        "basePrice": 5.0,
+        "modifiersList": [
+          {
+            "name": "Ranch",
+            "additionalCost": 0.5,
+            "categoryID": 1,
+            "foodItemID": 1,
+            "modifierID": 4,
+            "dataType": "MODIFIER"
+          },
+          {
+            "name": "Marinara",
+            "additionalCost": 0.5,
+            "categoryID": 1,
+            "foodItemID": 1,
+            "modifierID": 38,
+            "dataType": "MODIFIER"
+          }
+        ],
+        "categoryID": 1,
+        "foodItemID": 1,
+        "dataType": "FOOD_ITEM"
+      },
+      {
+        "name": "Mozarella Sticks",
+        "basePrice": 5.5,
+        "modifiersList": [
+          {
+            "name": "Ranch",
+            "additionalCost": 0.5,
+            "categoryID": 1,
+            "foodItemID": 2,
+            "modifierID": 2,
+            "dataType": "MODIFIER"
+          },
+          {
+            "name": "Marinara",
+            "additionalCost": 0.5,
+            "categoryID": 1,
+            "foodItemID": 2,
+            "modifierID": 39,
+            "dataType": "MODIFIER"
+          }
+        ],
+        "categoryID": 1,
+        "foodItemID": 2,
+        "dataType": "FOOD_ITEM"
+      },
+      {
+        "name": "Tortilla Chips",
+        "basePrice": 6.0,
+        "modifiersList": [
+          {
+            "name": "Queso",
+            "additionalCost": 0.5,
+            "categoryID": 1,
+            "foodItemID": 3,
+            "modifierID": 6,
+            "dataType": "MODIFIER"
+          },
+          {
+            "name": "Salsa",
+            "additionalCost": 0.5,
+            "categoryID": 1,
+            "foodItemID": 3,
+            "modifierID": 40,
+            "dataType": "MODIFIER"
+          }
+        ],
+        "categoryID": 1,
+        "foodItemID": 3,
+        "dataType": "FOOD_ITEM"
+      },
+      {
+        "name": "Garlic Bread",
+        "basePrice": 5.5,
+        "modifiersList": [
+          {
+            "name": "Marinara",
+            "additionalCost": 0.5,
+            "categoryID": 1,
+            "foodItemID": 4,
+            "modifierID": 41,
+            "dataType": "MODIFIER"
+          }
+        ],
+        "categoryID": 1,
+        "foodItemID": 4,
+        "dataType": "FOOD_ITEM"
+      },
+      {
+        "name": "Chicken Wings",
+        "basePrice": 6.0,
+        "modifiersList": [
+          {
+            "name": "Ketchup",
+            "additionalCost": 0.5,
+            "categoryID": 1,
+            "foodItemID": 5,
+            "modifierID": 9,
+            "dataType": "MODIFIER"
+          },
+          {
+            "name": "Ranch",
+            "additionalCost": 0.5,
+            "categoryID": 1,
+            "foodItemID": 5,
+            "modifierID": 42,
+            "dataType": "MODIFIER"
+          },
+          {
+            "name": "BBQ Sauce",
+            "additionalCost": 0.5,
+            "categoryID": 1,
+            "foodItemID": 5,
+            "modifierID": 43,
+            "dataType": "MODIFIER"
+          }
+        ],
+        "categoryID": 1,
+        "foodItemID": 5,
+        "dataType": "FOOD_ITEM"
+      },
+      {
+        "name": "Tater Tots",
+        "basePrice": 4.5,
+        "modifiersList": [
+          {
+            "name": "Ketchup",
+            "additionalCost": 0.5,
+            "categoryID": 1,
+            "foodItemID": 6,
+            "modifierID": 11,
+            "dataType": "MODIFIER"
+          },
+          {
+            "name": "Ranch",
+            "additionalCost": 0.5,
+            "categoryID": 1,
+            "foodItemID": 6,
+            "modifierID": 44,
+            "dataType": "MODIFIER"
+          },
+          {
+            "name": "Marinara",
+            "additionalCost": 0.5,
+            "categoryID": 1,
+            "foodItemID": 6,
+            "modifierID": 45,
+            "dataType": "MODIFIER"
+          }
+        ],
+        "categoryID": 1,
+        "foodItemID": 6,
+        "dataType": "FOOD_ITEM"
+      }
+    ],
+    "categoryID": 1,
+    "dataType": "CATEGORY"
+  },
+  {
+    "name": "Salads",
+    "foodItemsList": [
+      {
+        "name": "Fruit Salad",
+        "basePrice": 3.5,
+        "modifiersList": [
+          {
+            "name": "Honey",
+            "additionalCost": 0.75,
+            "categoryID": 2,
+            "foodItemID": 7,
+            "modifierID": 12,
+            "dataType": "MODIFIER"
+          }
+        ],
+        "categoryID": 2,
+        "foodItemID": 7,
+        "dataType": "FOOD_ITEM"
+      },
+      {
+        "name": "Caesar Salad",
+        "basePrice": 4.0,
+        "modifiersList": [
+          {
+            "name": "Italian Dressing",
+            "additionalCost": 0.75,
+            "categoryID": 2,
+            "foodItemID": 8,
+            "modifierID": 14,
+            "dataType": "MODIFIER"
+          },
+          {
+            "name": "Ranch",
+            "additionalCost": 0.75,
+            "categoryID": 2,
+            "foodItemID": 8,
+            "modifierID": 46,
+            "dataType": "MODIFIER"
+          }
+        ],
+        "categoryID": 2,
+        "foodItemID": 8,
+        "dataType": "FOOD_ITEM"
+      },
+      {
+        "name": "Potato Salad",
+        "basePrice": 4.0,
+        "modifiersList": [],
+        "categoryID": 2,
+        "foodItemID": 9,
+        "dataType": "FOOD_ITEM"
+      }
+    ],
+    "categoryID": 2,
+    "dataType": "CATEGORY"
+  },
+  {
+    "name": "Pizzas",
+    "foodItemsList": [
+      {
+        "name": "Supreme Pizza",
+        "basePrice": 7.0,
+        "modifiersList": [
+          {
+            "name": "Extra Sauce",
+            "additionalCost": 0.5,
+            "categoryID": 3,
+            "foodItemID": 10,
+            "modifierID": 30,
+            "dataType": "MODIFIER"
+          },
+          {
+            "name": "Thin Crust",
+            "additionalCost": 0.5,
+            "categoryID": 3,
+            "foodItemID": 10,
+            "modifierID": 47,
+            "dataType": "MODIFIER"
+          },
+          {
+            "name": "Thick Crust",
+            "additionalCost": 0.5,
+            "categoryID": 3,
+            "foodItemID": 10,
+            "modifierID": 48,
+            "dataType": "MODIFIER"
+          },
+          {
+            "name": "Cheese-Stuffed Crust",
+            "additionalCost": 1.0,
+            "categoryID": 3,
+            "foodItemID": 10,
+            "modifierID": 49,
+            "dataType": "MODIFIER"
+          }
+        ],
+        "categoryID": 3,
+        "foodItemID": 10,
+        "dataType": "FOOD_ITEM"
+      },
+      {
+        "name": "Veggie Pizza",
+        "basePrice": 5.0,
+        "modifiersList": [
+          {
+            "name": "Extra Sauce",
+            "additionalCost": 0.5,
+            "categoryID": 3,
+            "foodItemID": 11,
+            "modifierID": 24,
+            "dataType": "MODIFIER"
+          },
+          {
+            "name": "Thin Crust",
+            "additionalCost": 0.5,
+            "categoryID": 3,
+            "foodItemID": 11,
+            "modifierID": 50,
+            "dataType": "MODIFIER"
+          },
+          {
+            "name": "Thick Crust",
+            "additionalCost": 0.5,
+            "categoryID": 3,
+            "foodItemID": 11,
+            "modifierID": 51,
+            "dataType": "MODIFIER"
+          },
+          {
+            "name": "Cheese-Stuffed Crust",
+            "additionalCost": 1.0,
+            "categoryID": 3,
+            "foodItemID": 11,
+            "modifierID": 52,
+            "dataType": "MODIFIER"
+          }
+        ],
+        "categoryID": 3,
+        "foodItemID": 11,
+        "dataType": "FOOD_ITEM"
+      },
+      {
+        "name": "Meat Lover\u0027s Pizza",
+        "basePrice": 6.0,
+        "modifiersList": [
+          {
+            "name": "Extra Sauce",
+            "additionalCost": 0.5,
+            "categoryID": 3,
+            "foodItemID": 12,
+            "modifierID": 25,
+            "dataType": "MODIFIER"
+          },
+          {
+            "name": "Thick Crust",
+            "additionalCost": 0.5,
+            "categoryID": 3,
+            "foodItemID": 12,
+            "modifierID": 53,
+            "dataType": "MODIFIER"
+          },
+          {
+            "name": "Thin Crust",
+            "additionalCost": 0.5,
+            "categoryID": 3,
+            "foodItemID": 12,
+            "modifierID": 54,
+            "dataType": "MODIFIER"
+          },
+          {
+            "name": "Cheese-Stuffed Crust",
+            "additionalCost": 1.0,
+            "categoryID": 3,
+            "foodItemID": 12,
+            "modifierID": 55,
+            "dataType": "MODIFIER"
+          }
+        ],
+        "categoryID": 3,
+        "foodItemID": 12,
+        "dataType": "FOOD_ITEM"
+      },
+      {
+        "name": "Cheese Pizza",
+        "basePrice": 4.5,
+        "modifiersList": [
+          {
+            "name": "Extra Sauce",
+            "additionalCost": 0.5,
+            "categoryID": 3,
+            "foodItemID": 13,
+            "modifierID": 26,
+            "dataType": "MODIFIER"
+          },
+          {
+            "name": "Thick Crust",
+            "additionalCost": 0.5,
+            "categoryID": 3,
+            "foodItemID": 13,
+            "modifierID": 56,
+            "dataType": "MODIFIER"
+          },
+          {
+            "name": "Thin Crust",
+            "additionalCost": 0.5,
+            "categoryID": 3,
+            "foodItemID": 13,
+            "modifierID": 57,
+            "dataType": "MODIFIER"
+          },
+          {
+            "name": "Cheese-Stuffed Crust",
+            "additionalCost": 1.0,
+            "categoryID": 3,
+            "foodItemID": 13,
+            "modifierID": 58,
+            "dataType": "MODIFIER"
+          }
+        ],
+        "categoryID": 3,
+        "foodItemID": 13,
+        "dataType": "FOOD_ITEM"
+      }
+    ],
+    "categoryID": 3,
+    "dataType": "CATEGORY"
+  },
+  {
+    "name": "Sandwiches",
+    "foodItemsList": [
+      {
+        "name": "Club Sandwich",
+        "basePrice": 5.5,
+        "modifiersList": [
+          {
+            "name": "No Pickles",
+            "additionalCost": -0.5,
+            "categoryID": 4,
+            "foodItemID": 14,
+            "modifierID": 31,
+            "dataType": "MODIFIER"
+          }
+        ],
+        "categoryID": 4,
+        "foodItemID": 14,
+        "dataType": "FOOD_ITEM"
+      },
+      {
+        "name": "BLT Sandwich",
+        "basePrice": 6.0,
+        "modifiersList": [],
+        "categoryID": 4,
+        "foodItemID": 15,
+        "dataType": "FOOD_ITEM"
+      },
+      {
+        "name": "Roast Beef Sandwich",
+        "basePrice": 6.5,
+        "modifiersList": [],
+        "categoryID": 4,
+        "foodItemID": 16,
+        "dataType": "FOOD_ITEM"
+      },
+      {
+        "name": "Veggie Sandwich",
+        "basePrice": 5.0,
+        "modifiersList": [
+          {
+            "name": "No Pickles",
+            "additionalCost": -0.5,
+            "categoryID": 4,
+            "foodItemID": 17,
+            "modifierID": 32,
+            "dataType": "MODIFIER"
+          }
+        ],
+        "categoryID": 4,
+        "foodItemID": 17,
+        "dataType": "FOOD_ITEM"
+      },
+      {
+        "name": "Chicken Sandwich",
+        "basePrice": 5.5,
+        "modifiersList": [
+          {
+            "name": "No Pickles",
+            "additionalCost": 0.5,
+            "categoryID": 4,
+            "foodItemID": 18,
+            "modifierID": 33,
+            "dataType": "MODIFIER"
+          }
+        ],
+        "categoryID": 4,
+        "foodItemID": 18,
+        "dataType": "FOOD_ITEM"
+      }
+    ],
+    "categoryID": 4,
+    "dataType": "CATEGORY"
+  },
+  {
+    "name": "Desserts",
+    "foodItemsList": [
+      {
+        "name": "Ice Cream Sandwich",
+        "basePrice": 5.0,
+        "modifiersList": [],
+        "categoryID": 5,
+        "foodItemID": 19,
+        "dataType": "FOOD_ITEM"
+      },
+      {
+        "name": "Ice Cream Cone",
+        "basePrice": 4.5,
+        "modifiersList": [],
+        "categoryID": 5,
+        "foodItemID": 20,
+        "dataType": "FOOD_ITEM"
+      },
+      {
+        "name": "Apple Pie",
+        "basePrice": 4.5,
+        "modifiersList": [],
+        "categoryID": 5,
+        "foodItemID": 21,
+        "dataType": "FOOD_ITEM"
+      },
+      {
+        "name": "Cake",
+        "basePrice": 6.0,
+        "modifiersList": [],
+        "categoryID": 5,
+        "foodItemID": 22,
+        "dataType": "FOOD_ITEM"
+      },
+      {
+        "name": "Cookie",
+        "basePrice": 4.0,
+        "modifiersList": [],
+        "categoryID": 5,
+        "foodItemID": 23,
+        "dataType": "FOOD_ITEM"
+      }
+    ],
+    "categoryID": 5,
+    "dataType": "CATEGORY"
+  },
+  {
+    "name": "Drinks",
+    "foodItemsList": [
+      {
+        "name": "Water",
+        "basePrice": 0.5,
+        "modifiersList": [],
+        "categoryID": 6,
+        "foodItemID": 24,
+        "dataType": "FOOD_ITEM"
+      },
+      {
+        "name": "Tea",
+        "basePrice": 1.0,
+        "modifiersList": [
+          {
+            "name": "Milk",
+            "additionalCost": 0.75,
+            "categoryID": 6,
+            "foodItemID": 25,
+            "modifierID": 35,
+            "dataType": "MODIFIER"
+          },
+          {
+            "name": "Sugar",
+            "additionalCost": 0.5,
+            "categoryID": 6,
+            "foodItemID": 25,
+            "modifierID": 59,
+            "dataType": "MODIFIER"
+          }
+        ],
+        "categoryID": 6,
+        "foodItemID": 25,
+        "dataType": "FOOD_ITEM"
+      },
+      {
+        "name": "Coffee",
+        "basePrice": 1.5,
+        "modifiersList": [
+          {
+            "name": "Milk",
+            "additionalCost": 0.75,
+            "categoryID": 6,
+            "foodItemID": 26,
+            "modifierID": 37,
+            "dataType": "MODIFIER"
+          },
+          {
+            "name": "Sugar",
+            "additionalCost": 0.5,
+            "categoryID": 6,
+            "foodItemID": 26,
+            "modifierID": 60,
+            "dataType": "MODIFIER"
+          }
+        ],
+        "categoryID": 6,
+        "foodItemID": 26,
+        "dataType": "FOOD_ITEM"
+      },
+      {
+        "name": "Soft Drink",
+        "basePrice": 1.5,
+        "modifiersList": [],
+        "categoryID": 6,
+        "foodItemID": 27,
+        "dataType": "FOOD_ITEM"
+      },
+      {
+        "name": "Smoothie",
+        "basePrice": 2.0,
+        "modifiersList": [],
+        "categoryID": 6,
+        "foodItemID": 28,
+        "dataType": "FOOD_ITEM"
+      }
+    ],
+    "categoryID": 6,
+    "dataType": "CATEGORY"
+  },
+  {
+    "name": "test",
+    "foodItemsList": [
+      {
+        "name": "test",
+        "basePrice": 1.0,
+        "modifiersList": [
+          {
+            "name": "test2",
+            "additionalCost": 92.0,
+            "categoryID": 7,
+            "foodItemID": 29,
+            "modifierID": 61,
+            "dataType": "MODIFIER"
+          }
+        ],
+        "categoryID": 7,
+        "foodItemID": 29,
+        "dataType": "FOOD_ITEM"
+      }
+    ],
+    "categoryID": 7,
+    "dataType": "CATEGORY"
+  },
+  {
+    "name": "testing",
+    "foodItemsList": [],
+    "categoryID": 8,
+    "dataType": "CATEGORY"
+  }
+]
